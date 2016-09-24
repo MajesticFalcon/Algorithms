@@ -1,4 +1,4 @@
 language: ruby
-gemfile: gemfile
+gemfile: Gemfile
 rvm:
   - 2.1.6
